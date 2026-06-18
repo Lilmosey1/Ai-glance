@@ -1,0 +1,6 @@
+{
+  "name": "OmniAI Studio",
+  "description": "A modern, advanced workbench incorporating various Gemini and Veo AI models for text, speech, music, image, and video generation/analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
